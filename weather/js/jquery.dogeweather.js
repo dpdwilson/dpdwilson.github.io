@@ -125,7 +125,7 @@
             $('#location').text('just no');
                 
             $('.such.overlay').hide();
-            $('.doge-image').css('background-image', 'url(./img/doge/grumpycat.png)');
+            $('.doge-image').css('background-image', 'url(img/doge/grumpycat.png)');
 
         });
     };
